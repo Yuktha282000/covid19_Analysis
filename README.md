@@ -1,18 +1,18 @@
-+ # Covid_19 Analysis
+ # Covid_19 Analysis
 + DLithe Internship Assignment.ML using Python
 
 
 + This is the assignment for the internship Machine Learning using Python conducted by DLithe, Bangalore.
 
 + Assignment topic is : Analysis of Covid_19 using Machine Learning 
-+ ## Dataset Deatils : 
+ ## Dataset Deatils : 
     I have used three datasets in this analysis.
     "covid_19_India.csv" and "covid_19_data" are downloaded from Kaggle
     "Indian States Population and Area.xlsx" is downloaded from udai.gov.in
 
-+ ### Internship-Company Dtails
+ ### Internship-Company Dtails
 
-  email id : info@dlithe.com
-  Contact : 9008815252
-  Contact Person : Mr Sridhar Murthy
-  Company website : www.dlithe.com
+  + email id : info@dlithe.com
+  + Contact : 9008815252
+  + Contact Person : Mr Sridhar Murthy
+  + Company website : www.dlithe.com
