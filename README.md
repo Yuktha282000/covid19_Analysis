@@ -8,7 +8,7 @@
  ## Dataset Deatils : 
     I have used three datasets in this analysis.
     "covid_19_India.csv" and "covid_19_data" are downloaded from Kaggle
-    "Indian States Population and Area.xlsx" is downloaded from udai.gov.in
+    "Indian States Population and Area.xlsx" is downloaded from uidai.gov.in
 
  ### Internship-Company Dtails
 
